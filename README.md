@@ -38,3 +38,5 @@ Volume change, recent returns, volatility, and moving averages were the main pre
 
 ## How to Run
 Open the notebook in Google Colab and run each cell from top to bottom.
+You can view and run the notebook here:
+[Open in Colab](https://colab.research.google.com/drive/1xiMlw8snTM_sa2abtGPCOz1Tnva1t99C?usp=sharing)
