@@ -40,10 +40,9 @@ Volume change, recent returns, volatility, and moving averages were the main pre
 
 ## Visualizations
 
-![AAPL Stock Price](visuals/aapl_stock_price.png)
-
-### Correlation Heatmap
-![Heatmap](visuals/aapl_heatmap1.png)
+Visualizations are included in the `visuals` folder:
+- AAPL stock price over time
+- Correlation heatmap of AAPL stock features
 
 ## How to Run
 Open the notebook in Google Colab and run each cell from top to bottom.
