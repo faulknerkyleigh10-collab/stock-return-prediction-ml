@@ -42,6 +42,8 @@ Volume change, recent returns, volatility, and moving averages were the main pre
 
 ![AAPL Stock Price](visuals/aapl_stock_price.png)
 
+
+
 ## How to Run
 Open the notebook in Google Colab and run each cell from top to bottom.
 You can view and run the notebook here:
