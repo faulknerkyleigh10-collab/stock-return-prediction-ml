@@ -42,7 +42,8 @@ Volume change, recent returns, volatility, and moving averages were the main pre
 
 ![AAPL Stock Price](visuals/aapl_stock_price.png)
 
-
+### Correlation Heatmap
+![Heatmap](visuals/aapl_heatmap.png)
 
 ## How to Run
 Open the notebook in Google Colab and run each cell from top to bottom.
