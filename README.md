@@ -37,6 +37,7 @@ Volume change, recent returns, volatility, and moving averages were the main pre
 - Kaggle
 
 
+
 ## Visualizations
 
 ![AAPL Stock Price](visuals/aapl_stock_price.png)
