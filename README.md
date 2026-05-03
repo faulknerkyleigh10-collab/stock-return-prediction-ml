@@ -39,8 +39,6 @@ Volume change, recent returns, volatility, and moving averages were the main pre
 
 ## Visualizations
 
-### AAPL Stock Price Over Time
-
 ![AAPL Stock Price](visuals/aapl_stock_price.png)
 
 ## How to Run
