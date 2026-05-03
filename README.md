@@ -2,7 +2,6 @@
 
 ## Project Overview
 This project uses historical S&P 500 stock data from Kaggle to predict whether Apple (AAPL) stock will move up or down the next trading day. The project applies the full predictive analytics workflow, including data cleaning, feature engineering, machine learning modeling, and model evaluation.
-
 ## Business Questions
 1. Can machine learning predict whether AAPL stock will increase or decrease the next trading day?
 2. Which financial indicators are most important in predicting stock direction?
@@ -10,6 +9,7 @@ This project uses historical S&P 500 stock data from Kaggle to predict whether A
 
 ## Dataset
 The dataset comes from Kaggle and includes historical S&P 500 stock prices, including open, high, low, close, volume, date, and company ticker.
+https://www.kaggle.com/datasets/camnugent/sandp500/data
 
 ## Methods
 The analysis includes:
